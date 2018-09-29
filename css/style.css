@@ -1,0 +1,17 @@
+.leafy {
+    height: 40px;
+    width: 40px;
+    background-color: green;
+    border-radius: 100% 0 100% 10px;
+    transform: rotate(20deg);
+    position: relative;
+    left: 4px;
+}
+
+.stem {
+    height: 50px;
+    width: 10px;
+    position: relative;
+    top: -12px;
+    background-color: green;
+}
